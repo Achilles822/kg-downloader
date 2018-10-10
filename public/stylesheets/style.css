@@ -1,0 +1,53 @@
+body {
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    height: 100vh;
+}
+
+a {
+    text-decoration: none;
+    out-line: none;
+    color: #333;
+    display: block;
+    height:35px;
+    line-height: 35px !important;
+}
+
+.link {
+  border: 2px solid rgb(253, 108, 108);
+  line-height: 1.375;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  font-weight: 700;
+  color: rgb(253, 108, 108);
+  cursor: pointer;
+  border-radius: 4px;
+  -webkit-animation: hue 60s infinite linear;
+}
+
+
+h1 {
+    color: #f35626;
+    background-image: -webkit-linear-gradient(92deg, #f35626, #feab3a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 20px;
+}
+
+.input {
+    border: 1px solid #c0c8c9;
+    padding: .75rem;
+    margin: .375rem;
+    background-color: transparent;
+    border-radius: 4px;
+}
+
+.butt {
+    border: 2px solid #f35626;
+    line-height: 1.375;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    font-weight: 700;
+    color: #f35626;
+    cursor: pointer;
+    -webkit-animation: hue 60s infinite linear;
+}

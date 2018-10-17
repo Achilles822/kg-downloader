@@ -9,7 +9,7 @@ and then visit at `localhost:3000`
 
 ### 效果预览
 
-![](http://47.106.243.241/images/k3.png)
+![](http://47.106.243.241/images/k7.png)
 
 ### TODO
 - [X] 单曲试听
